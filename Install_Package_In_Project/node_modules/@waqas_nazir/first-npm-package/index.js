@@ -1,3 +1,7 @@
 const name = "Waqas Nazir";
 
-module.exports = name;
+const sumValuesHandler = (a, b) => {
+  return a + b;
+};
+
+module.exports = { name, sumValuesHandler };
