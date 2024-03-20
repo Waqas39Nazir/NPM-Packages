@@ -1,0 +1,6 @@
+{
+  "name": "@waqas_nazir/first-npm-package",
+  "version": "1.0.0",
+  "description": "This is my first package",
+  "main": "index.js"
+}
