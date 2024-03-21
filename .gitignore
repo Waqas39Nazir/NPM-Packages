@@ -2,12 +2,14 @@
 # npm publish --access=public
 
 # Project One
-testPackage.js
+First_Package/testPackage.js
+# Project Two
 Install_Package_In_Project/node_modules
 Install_Package_In_Project/package-lock.json
-# Project Two
-NPX_Command/node_modules
-NPX_Command/package-lock.json
 # Project Three
 NPX_Tool/node_modules
 NPX_Tool/package-lock.json
+# Project Four
+Square_Number_Package/node_modules
+Square_Number_Package/package-lock.json
+Square_Number_Package/testPackage.js
