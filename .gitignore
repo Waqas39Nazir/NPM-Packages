@@ -4,3 +4,5 @@
 testPackage.js
 Install_Package_In_Project/node_modules
 Install_Package_In_Project/package-lock.json
+NPX_Command/node_modules
+NPX_Command/package-lock.json
