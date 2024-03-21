@@ -1,0 +1,9 @@
+{
+  "name": "@waqas_nazir/substract_number_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "subtract": "./index.js"
+  }
+}
