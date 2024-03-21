@@ -18,3 +18,12 @@ if (isNaN(total)) {
 
 console.log("Result:", total);
 process.exit(0); // no erros occured
+
+/** To Test it Locally
+ * npm i -g
+ * anywhere in terminal npx subtract
+ */
+
+/** To Test it after publishing at NPM
+ * npx @waqas_nazir/substract_number_package 5 2 (anywhere in terminal)
+ */
