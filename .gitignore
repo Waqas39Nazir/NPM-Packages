@@ -1,13 +1,16 @@
 .DS_Store
 # Project One
-First_Package/testPackage.js
+# First_NPM_Package/testPackage.js
+
 # Project Two
 Install_Package_In_Project/node_modules
 Install_Package_In_Project/package-lock.json
+
 # Project Three
 NPX_Tool/node_modules
 NPX_Tool/package-lock.json
+
 # Project Four
 Square_Number_Package/node_modules
 Square_Number_Package/package-lock.json
-Square_Number_Package/testPackage.js
+# Square_Number_Package/testPackage.js
