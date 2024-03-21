@@ -1,15 +1,15 @@
 {
-  "name": "install_package_in_project",
+  "name": "npx_tool",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "description": "",
-  "dependencies": {
-    "@waqas_nazir/first-npm-package": "^1.0.1"
+  "license": "ISC",
+  "bin": {
+    "multiply": "bin/index.js"
   }
 }
