@@ -1,7 +1,5 @@
 # To Publish NPM Package
 
-# Folder structure updated
-
  <!--
 * npm login
 * npm publish --access=public
