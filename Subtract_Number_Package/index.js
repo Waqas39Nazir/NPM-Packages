@@ -18,3 +18,11 @@ if (isNaN(total)) {
 
 console.log("Result:", total);
 process.exit(0); // no erros occured
+
+/***
+ * To test it locally
+ * npm i -g
+ * npx multiply (anywhere in terminal)
+ * TO TEST IT after publishing on NPM
+ * npx @waqas_nazir/substract_number_package (anywhere in terminal)
+ */
